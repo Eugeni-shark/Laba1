@@ -12,6 +12,7 @@ namespace Laba1GitHub
         {
             Reka reka = new Reka();
             reka.start();
+			
         }
     }
 }

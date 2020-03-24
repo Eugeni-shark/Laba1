@@ -37,6 +37,7 @@ namespace Laba1GitHub
             for (int i = 0; i < nz; i++)
             {
                 Console.WriteLine($"{a[i].naim,10} {a[i].plosh,15} {a[i].prot,13}");
+				
             }
         }
 
