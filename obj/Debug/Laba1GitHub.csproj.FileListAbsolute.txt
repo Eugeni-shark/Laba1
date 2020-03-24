@@ -1,0 +1,6 @@
+D:\Колледж\УП по програмированию\Лабараторная работа №1\Прога\Laba1GitHub\Laba1GitHub\bin\Debug\Laba1GitHub.exe.config
+D:\Колледж\УП по програмированию\Лабараторная работа №1\Прога\Laba1GitHub\Laba1GitHub\bin\Debug\Laba1GitHub.exe
+D:\Колледж\УП по програмированию\Лабараторная работа №1\Прога\Laba1GitHub\Laba1GitHub\bin\Debug\Laba1GitHub.pdb
+D:\Колледж\УП по програмированию\Лабараторная работа №1\Прога\Laba1GitHub\Laba1GitHub\obj\Debug\Laba1GitHub.csprojAssemblyReference.cache
+D:\Колледж\УП по програмированию\Лабараторная работа №1\Прога\Laba1GitHub\Laba1GitHub\obj\Debug\Laba1GitHub.exe
+D:\Колледж\УП по програмированию\Лабараторная работа №1\Прога\Laba1GitHub\Laba1GitHub\obj\Debug\Laba1GitHub.pdb
